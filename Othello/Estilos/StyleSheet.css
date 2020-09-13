@@ -1,0 +1,105 @@
+﻿form
+{
+    width: 25%;
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 20px;
+    background-color: gray;
+    position: relative;
+    left: 500px;
+}
+
+#pr {
+    width: 70px;
+    height: 20px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    position: relative;
+    left: 110px;
+}
+
+
+label {
+    font-size: 12px;
+    display: block;
+    width: 100%;
+}
+
+input{
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#encabezado {
+    background-color: darkslategrey;
+    width: 100%;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+#login {
+    width: 25%;
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 20px;
+    background-color: gray;
+    position: relative;
+    left: 500px;
+}
+
+.elec {
+    width: 100px;
+    height:30px;
+    background-color: aquamarine;
+    text-align: center;
+    position: relative;
+    left: 130px;
+    border: 1px solid #ccc;
+}
+
+    .elec label {
+        font-size: 10px;
+    }
+
+    .elec:hover {
+        background-color: darkcyan;
+        cursor: pointer;
+    }
+
+    #encabezado label {
+        color: antiquewhite;
+        font-size: 25px;
+    }
+
+input[type="submit"] {
+    margin-bottom:0;
+    background-color: red;
+    color: navajowhite;
+    border: none;
+    width: 100px;
+}
+
+input[type="submit"]:hover{
+    background-color : darkcyan;
+    cursor:pointer;
+}
+
+
+
+/*ESTILOS DEL TABLERO------*/
+
+#tablero {
+    width: 720px;
+    height: 720px;
+    background-color: forestgreen;
+}
+
+.tenue {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #000000;
+    background-color: wheat;
+    float:left;
+}
