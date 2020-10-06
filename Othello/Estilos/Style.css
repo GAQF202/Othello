@@ -1,0 +1,21 @@
+﻿#tablero {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 25%;
+    background-color: powderblue;
+}
+
+.casilla {
+    width: 60px;
+    height: 60px;
+    float: left;
+    font-size: 60px;
+}
+
+.juego {
+    width: 58px;
+    height: 58px;
+    border: 1px solid #000000;
+    background-color: forestgreen;
+}

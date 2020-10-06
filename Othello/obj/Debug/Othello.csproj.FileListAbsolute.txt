@@ -84,3 +84,7 @@ C:\Users\Gerson\source\repos\Othello\Othello\obj\Debug\Othello.csproj.CoreCompil
 C:\Users\Gerson\source\repos\Othello\Othello\obj\Debug\Othello.csproj.CopyComplete
 C:\Users\Gerson\source\repos\Othello\Othello\obj\Debug\Othello.dll
 C:\Users\Gerson\source\repos\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\Gerson\source\repos\Othello\Othello\bin\EntityFramework.dll
+C:\Users\Gerson\source\repos\Othello\Othello\bin\EntityFramework.SqlServer.dll
+C:\Users\Gerson\source\repos\Othello\Othello\bin\EntityFramework.xml
+C:\Users\Gerson\source\repos\Othello\Othello\bin\EntityFramework.SqlServer.xml

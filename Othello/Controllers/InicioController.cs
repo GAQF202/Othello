@@ -10,22 +10,22 @@ namespace Othello.Controllers
     public class InicioController : Controller
     {
         // GET: Inicio
-        public ActionResult Usuario()
+        /*public ActionResult Usuario()
         {
-            Usuario user = new Usuario(); 
-            user.username = Request.Form["username"];
-            user.nombre = Request.Form["name"];
-            user.lastname = Request.Form["lastname"];
-            user.date = Convert.ToString(Request.Form["date"]);
-            user.country = Request.Form["country"];
-            user.password = Convert.ToString(Request.Form["password"]);
+           Usuario user = new Usuario(); 
+            user.Usuario1 = Request.Form["username"];
+            user.Nombre = Request.Form["name"];
+            user.Apellido = Request.Form["lastname"];
+            user.Nacimiento = Convert.ToString(Request.Form["date"]);
+            user.Pais = Request.Form["country"];
+            user.Contraseña = Convert.ToString(Request.Form["password"]);
             return View(user);
         }
 
         public ActionResult Index() 
         {
             return View();
-        }
+        }*/
             
     }
 }
